@@ -65,7 +65,7 @@
 
 
 body{
-    background: no-repeat url('./background/__image__.jpg');
+    background: no-repeat url('./background/_image_.jpg');
     background-size: auto;
 
     display: flex;
